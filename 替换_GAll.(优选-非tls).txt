@@ -39,6 +39,7 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:2096?security=&type
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:8443?security=&type=ws&host=KzRzPtSn17.aPpGuIdEpOrTaL.InFo&path=%2F&sni=KzRzPtSn17.aPpGuIdEpOrTaL.InFo&alpn=h3,h2&fp=chrome&encryption=none#server_80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:8443?security=&type=ws&host=OkFuPbBj13.mYaPpLiCaTiOnHuB.InFo&path=%2F&sni=OkFuPbBj13.mYaPpLiCaTiOnHuB.InFo&alpn=h3,h2&fp=chrome&encryption=none#server_81
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:2096?security=&type=ws&host=EnYwMaLl16.aPpHuBcOnNeCt.iNfO&path=%2F&sni=EnYwMaLl16.aPpHuBcOnNeCt.iNfO&alpn=h3,h2&fp=chrome&encryption=none#server_82
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:2096?security=&type=ws&host=PpWcZgWp12.aPpZoNePlAtFoRm.iNfO&path=%2F&sni=PpWcZgWp12.aPpZoNePlAtFoRm.iNfO&alpn=h3,h2&fp=chrome&encryption=none#server_83
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:2096?security=&type=ws&host=CpHwXmJd16.qUiCkApPsOlUtIoNs.iNfO&path=%2F&sni=CpHwXmJd16.qUiCkApPsOlUtIoNs.iNfO&alpn=h3,h2&fp=chrome&encryption=none#server_86
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:8443?security=&type=ws&host=PpWcZgWp17.aPpZoNePlAtFoRm.iNfO&path=%2F&sni=PpWcZgWp17.aPpZoNePlAtFoRm.iNfO&alpn=h3,h2&fp=chrome&encryption=none#server_87
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.visa.com.tw:8443?security=&type=ws&host=I71iJqRk8C.dMnEwNoD110.cOm&path=%2F&sni=I71iJqRk8C.dMnEwNoD110.cOm&alpn=h3,h2&fp=chrome&encryption=none#server_89
