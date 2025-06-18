@@ -23,6 +23,8 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.visa.com.tw:8443?security=&type
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.visa.com.tw:2096?security=&type=ws&host=IyBtYzEc.sHaEyShOy.iNfO&path=%2F&sni=IyBtYzEc.sHaEyShOy.iNfO&alpn=h2,http/1.1&fp=chrome&encryption=none#server_53
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.visa.com.tw:8443?security=&type=ws&host=0HjE2cHqJ2.dMnEwNoD110.cOm&path=%2F&sni=0HjE2cHqJ2.dMnEwNoD110.cOm&alpn=h3,h2&fp=chrome&encryption=none#server_54
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.visa.com.tw:2096?security=&type=ws&host=LyFaOhDmU7.dMnEwNoD110.cOm&path=%2F&sni=LyFaOhDmU7.dMnEwNoD110.cOm&alpn=h3,h2&fp=chrome&encryption=none#server_57
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.visa.com.tw:2096?security=&type=ws&host=Ma5N9eGvMa.DmNeWnOd110.CoM&path=%2F&sni=Ma5N9eGvMa.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_59
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.visa.com.tw:8443?security=&type=ws&host=3KaGj3K4c1.DmNeWnOd110.CoM&path=%2F&sni=3KaGj3K4c1.DmNeWnOd110.CoM&alpn=h3,h2&fp=chrome&encryption=none#server_60
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:8443?security=&type=ws&host=BhJnReVg17.nExApPlIcAtIoNzOnE.InFo&path=%2F&sni=BhJnReVg17.nExApPlIcAtIoNzOnE.InFo&alpn=h3,h2&fp=chrome&encryption=none#server_64
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:8443?security=&type=ws&host=TyUtGfPo17.aPpCeNtRaLnEtWoRk.iNfO&path=%2F&sni=TyUtGfPo17.aPpCeNtRaLnEtWoRk.iNfO&alpn=h3,h2&fp=chrome&encryption=none#server_65
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.visa.com.tw:2096?security=&type=ws&host=KzRzPtSn16.aPpGuIdEpOrTaL.InFo&path=%2F&sni=KzRzPtSn16.aPpGuIdEpOrTaL.InFo&alpn=h3,h2&fp=chrome&encryption=none#server_66
